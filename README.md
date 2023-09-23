@@ -13,7 +13,6 @@
 ## Tools stack 
 - Nessus • Qualys • Burp suite • Wireshark • Metasploit • Nmap • zenmap • Defensics Fuzzing • Black Duck Binary Analysis • Netcat • Nikto • Ettercap • CVE searchsploit 
 - openocd • Jtagulator • Buspirate • ST-LINK/V2 debugger • J-Link debugger • Logic Analyzer
-- Hadoop, R, Scala, Linux Commands, PyTorch, TensorFlow  
 
 ### Professional Roles (Performed till date):
 - Product Cybersecurity Engineer
