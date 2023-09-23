@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/33447734/229315840-09ab674f-babe-40b5-82a8-666b5ac8f82e.jpg" height="105" width="105"></p>
+<p align="center"><img align="center" src="https://th.bing.com/th/id/OIP.diXbJVp7arBXT7R6muL7dwHaHa?w=217&h=217&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="105" width="105"></p>
 <p align="center"><img align="center" src="https://img.shields.io/badge/Mihirraj-Dixit-brightgreen?style=flat-square&logo=CodingNinjas"></p>
 
 
